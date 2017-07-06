@@ -11,6 +11,9 @@ namespace HelloWorldConsole
         static void Main(string[] args)
         {
             Console.Write("Hello World!");
+
+            Console.Write("Parting is such sweet sorrow...");
+            Console.ReadKey();
         }
     }
 }
